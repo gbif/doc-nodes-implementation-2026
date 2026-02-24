@@ -8,12 +8,3 @@ Since the 15th Global Nodes Meeting (October 2019 at GB26 in Leiden), the https:
 These strategic objectives are implemented by the Nodes Committee with the support of the Secretariat under the supervision of the NSG. They also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings. At the end of the year, the NSG will assess the progress towards these strategic objectives.
 
 The global objectives are aligned with GBIF’s strategic framework. Regions are welcome to add their own objectives. Different regions and Participants might have different approaches and activities to reach the common strategic objectives. For this reason, the activities under each objective should be considered as a non-exhaustive list of suggestions that might differ regionally.
-
-== The strategic objectives
-
-. Engage research communities for data mobilization and use
-. Support national and regional biodiversity commitments and the science-policy interface
-. Promote open biodiversity data approaches within the business and finance sectors
-. Support node development through knowledge sharing and mobility of skills
-. Develop capacity within regional communities of practice
-. Contribute to data model enhancements
