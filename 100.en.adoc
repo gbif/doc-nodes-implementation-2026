@@ -7,6 +7,8 @@
 * <<#develop-capacity-within-regional-communities-of-practice,Develop capacity within regional communities of practice>>
 * <<#contribute-to-data-model-enhancements,Contribute to data model enhancements>>
 
+<<<
+
 == Priority Area 1: Science and Research
 
 _Improving biodiversity evidence for scientific research and understanding_
