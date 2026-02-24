@@ -129,14 +129,11 @@ Complete assessment of biodiversity from the HKH region- which also entails cons
 
 Given that Italy just entered GBIF, we plan to organise workshops or symposia at the main scientific Italian conferences in the fall (ecologists, biogeographers, zoologists, botanists, microbiologists, limnologists, etc.), in order to drive mobilization and use of biodiversity data. We also plan to contact the Italian scientific journals dealing with biodiversity to open the possibility of publishing datapapers connected to datasets in GBIF.
 
-[,source]
-----
 ==== LifeWatch ERIC
 
 Plans for 2026 under Priority Area 1 build on this momentum and are more clearly articulated. The GBIF network plans to further consolidate scientific expertise across nodes and thematic communities, including those on agrobiodiversity, expand engagement with priority research domains, and strengthen the role of GBIF as a platform supporting biodiversity research at multiple scales.
 
 Countries and regions that were particularly active in 2025, such as European nodes working on survey and monitoring data and DNA-derived data, Latin American nodes advancing community-based data mobilization, and Oceanian nodes integrating GBIF into applied research contexts, are well positioned to act as catalysts for broader uptake across the network in 2026.
-----
 
 ==== Madagascar
 
@@ -331,14 +328,11 @@ Explore funding opportunities to support evidence-based national reporting for C
 
 We plan to increase the use of iNaturalist and DiSSCo in Italy, in order to expand the participation of actors providing reliable data to GBIF.
 
-[,source]
-----
 ==== LifeWatch ERIC
 
 The plans for 2026 under Priority Area 2 are structured and strategic, with clearer emphasis on operationalizing GBIF's role in policy and partnerships. Building on leadership shown in 2025, nodes with strong policy linkages, particularly those in Europe, Latin America and Africa, are expected to play an important role in sharing experience, achievements and supporting other participants. National participation is planned to be expanded, following the example of 2025.
 Important activities are planned, such as the operationalisation of the engagement with the UN CBD, the support to the IPBES and the development of valuable products (e.g. value proposition for potential funders, new policy use cases for multilateral agreements) to attract and engage more key stakeholders in GBIF.   
 In addition, increased engagement with the business and finance sectors is planned, with European nodes (e.g. the Netherlands, France, Spain) already demonstrating early leadership that can inform wider network uptake in 2026. Renewal of the memoranda of understanding with major organisations emerges one of the key actions. 
-----
 
 ==== Madagascar
 
@@ -428,12 +422,9 @@ Elements of the wider 2026 to 2027 delivery plan are being finalised alongside o
 - Consult training modules from the Global Nodes training to plan possible national trainings.
 - Promote the availability of training and guidance resources made available to the community (especially the languages available), covering both the mobilization and use of data for possible adaptation to the Andorran context.
 
-[,source]
-----
 ==== ASEAN Centre for Biodiversity
 
 In 2026, Priority Area 3 will focus on strengthening the GBIF community and capacity by clearly communicating GBIF’s value, reinforcing the role and effectiveness of nodes, and expanding training and support programmes.
-----
 
 ==== Belgium
 
@@ -735,13 +726,10 @@ Continue development of hosted portal for HKHBIF to position HKHBIF as a regiona
 
 We already listed potential improvements to services, but we still need to discuss what to implement and how.
 
-[,source]
-----
 ==== LifeWatch ERIC
 Plans for 2026 indicate a shift toward implementation and scaling of infrastructure advances. Nodes and regions that acted as early adopters and testbeds in 2025, particularly in Europe and Oceania, are well positioned to support wider rollout of ChecklistBank, Darwin Core Data Packages, enhanced survey and monitoring data handling, and improved user services.
 
 At the same time, the 2026 plans ensure that infrastructure benefits are more evenly distributed across regions, supported by shared tools, documentation, and community-driven feedback mechanisms.
-----
 
 ==== Mongolia
 
