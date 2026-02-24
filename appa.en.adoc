@@ -376,6 +376,24 @@ NLBIF, together with KPMG, will develop a report on [how to] "Accelerate the use
 
 NLBIF/Naturalis together with KPMG continues with the development of https://www.naturalis.nl/en/thrive[THRIVE] (Toolset for Hierarchical Reporting and Insightful Validation of Ecosystems)
 
+==== New Zealand
+
+===== Activity 2.1
+
+* Scope a strengthened GBIF NZ Node function (toward a National Biodiversity Information Facility model).
+* Develop restricted-access species guidance.
+* Produce eDNA-to-GBIF (eDNA Bridge) audience factsheets.
+* Host a GBIF data symposium at NZES.
+
+===== Activity 2.2
+
+* Develop partnerships to scope KMGBF reporting and data needs. 
+
+===== Activity 2.3 
+* Further scope GBIF as a clearinghouse for NZ voluntary nature market pilots.
+* Expand mobilisation of baseline and monitoring data from biodiversity credit initiatives.
+* Explore hosted portal options for voluntary nature market transparency.
+
 ==== South Africa
 
 * Taking forward outcomes of the G20.
