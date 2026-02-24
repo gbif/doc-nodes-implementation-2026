@@ -1,6 +1,6 @@
 == The strategic objectives
 
-* Engage research communities for data mobilization and use
+* #engage-research-communities-for-data-mobilization-and-use[Engage research communities for data mobilization and use]
 * Support national and regional biodiversity commitments and the science-policy interface
 * Promote open biodiversity data approaches within the business and finance sectors
 * Support node development through knowledge sharing and mobility of skills
