@@ -1,4 +1,119 @@
-[[short-id-for-section]]
-== Section/chapter title 
+== The strategic objectives
 
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person.
+* Engage research communities for data mobilization and use
+* Support national and regional biodiversity commitments and the science-policy interface
+* Promote open biodiversity data approaches within the business and finance sectors
+* Support node development through knowledge sharing and mobility of skills
+* Develop capacity within regional communities of practice
+* Contribute to data model enhancements
+
+== Priority Area 1: Science and Research
+
+_Improving biodiversity evidence for scientific research and understanding_
+
+=== Engage research communities for data mobilization and use
+
+Nodes play an essential role in engaging with researchers within their countries and networks, promoting the FAIR (Wilkinson 2016) and CARE (Carroll et al. 2020) data principles, as well as open science principles (in line with the https://en.unesco.org/science-sustainable-future/open-science/recommendation[UNESCO open science recommendation^]) and building communities of data publishers and users. Research communities can help to identify data gaps, data needs, and challenges in the use of the available data that can help nodes to prioritize activities. Several nodes have succeeded in embedding GBIF within academic training programmes (see https://www.gbif.org/article/aA0MjVddRiRFOX2SEs7mT/[guiding example from Benin^] and https://www.gbif.no/projects/biodata/[the BioDATA and BioDATA Advanced project^]s), developing capacity and encouraging new generations of researchers to follow open science practices. GBIF’s relevance across thematic communities was discussed at the 2025 https://globalnodes.gbif.org/en/2025gnm/themes-partnerships[Global Nodes Meeting^] together with members of the Science Committee. Engagement around thematic areas of relevance, such as agrobiodiversity, marine ecosystems, invasive alien species and Indigenous data governance can grow communities of data publishers and of data users, build partnerships and strengthen GBIF’s network and impact.
+
+In 2025, GBIF launched the pilot phase for the https://www.gbif.org/metabarcoding[Metabarcoding Data Programme^], intended to improve integration of DNA metabarcoding data on biodiversity. The Global Nodes Training included a https://globalnodes.gbif.org/en/2025gnt/gnt-metabarcoding-data[module^] that provides the basis for all nodes to be able to publish metabarcoding datasets to GBIF.
+
+TDWG’s Humboldt Extension and two GBIF guides are supporting the publication of richer data from biological surveys. In 2025, a https://www.gbif.org/news/2HXbNAuTtNtgAZb5iaCLfn/new-release-guide-for-publishing-biological-survey-data-to-gbif[new guide on publishing biological survey data^] was released to guide practitioners in ecology, biological monitoring, environmental assessments and data management to prepare and publish biological survey and monitoring data to GBIF. The https://docs.gbif.org/survey-monitoring-quick-start/en/[Survey and Monitoring Data Quick-Start Guide: A how-to for updating a Darwin Core dataset using the Humboldt Extension^] was also updated. Nodes are encouraged to engage with ecologists and the biodiversity monitoring community to develop data mobilization plans for this important data type: systematically collected biodiversity data with documented sampling effort, often quantitative data will continue to be in demand in research and in decision-making.
+
+Nodes are encouraged to:
+
+* Engage with scientific leaders in biodiversity sciences to build and develop a scientific community around the node. The https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&peerReview=true[country filter^] of literature tracking and annual https://www.gbif.org/science-review[_Science Review#_] can help identify active users of GBIF-mediated data in the country.
+* Encourage local researchers to join the https://www.gbif.org/ambassadors[biodiversity open data ambassadors programme^]. Cultivate active relationships between the node and ambassadors to promote GBIF data use in research through national and regional conferences and other relevant fora.
+* Join the https://www.gbif.org/news/3gm3lJaUQgTKZJRm6TiBff/[pilot DNA metabarcoding data programme^] to improve GBIF’s integration of DNA metabarcoding data on biodiversity.
+* Organize national or thematic events targeting research communities, including focus on training for DNA derived data and GBIF (see available https://doi.org/10.35035/doc-vf1a-nr22[guide^] and https://www.gbif.org/training[training materials^]).
+* Actively promote publishing of event-based survey and monitoring data with Humboldt extension (see available https://www.gbif.org/news/2HXbNAuTtNtgAZb5iaCLfn/new-release-guide-for-publishing-biological-survey-data-to-gbif[guides^]).
+* Promote and participate in data mobilization actions relating to thematic approaches.
+* Promote the https://www.gbif.org/data-use-club[Data Use Club^] within research and student communities as a means to develop data literacy skills, for example, by organizing a national/thematic team (see https://vimeo.com/711112378?embedded=true&source=vimeo_logo&owner=8757851[guiding example from Colombia^]).
+* Engage with national graduate schools, universities and other key partners in higher education aiming at making data skills and GBIF training an essential part of university curricula (using the increasing popularity of teaching R and the https://www.gbif.org/article/aA0MjVddRiRFOX2SEs7mT[master’s programme in biodiversity informatics in Benin^] as examples).
+* Increase promotion of the https://www.gbif.org/graduate-researchers-award[Graduate Researchers Award^] and https://www.gbif.org/ebbe[Ebbe Nielsen Challenge^] to encourage and recognize innovative research use of GBIF-mediated data.
+* Support the development and implementation of national policies on open science and data to implement FAIR and CARE principles.
+* Know, seek and develop key partnerships with national, regional, global and thematic research infrastructures to help drive the agenda around data-intensive biodiversity research.
+
+== Priority Area 2: Policy and Partnerships
+
+_Developing partnerships that benefit policy and society_
+
+=== Support national and regional biodiversity commitments and the science-policy interface
+
+Through partnerships and coordination, nodes can support improved data flows into indicators and reporting processes relating to biodiversity status and trends and uphold commitments under the UN Convention on Biological Diversity (CBD) and the Sustainable Development Goals, and the Kunming-Montreal Global Biodiversity Framework (GBF). By building linkages with the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), nodes can support biodiversity assessments by enabling policy-related research based on GBIF-mediated data and addressing policy-relevant gaps in biodiversity data identified by IPBES assessment author teams. These linkages raise awareness of the valuable role that nodes play in delivering open biodiversity data in support of national policy and commitments.
+
+Nodes are encouraged to:
+
+* Make connections with the CBD focal points or, where possible, include them in their node team to support the implementation of national commitments under the Convention on Biological Diversity (CBD).
+* Pay particular attention to the ongoing process of revising and updating National Biodiversity Strategies and Action Plans (NBSAPs) and developing national targets and indicators for reporting progress towards goals and targets of the Kunming-Montreal Global Biodiversity Framework (CBD), with advice available from the Secretariat as needed. For countries that have recently submitted updated NBSAPs, consider establishing contact and starting discussions with CBD focal points on previously identified data needs and the timeline for the next update.
+* Document and provide feedback to metrics development in light of data needs into community metrics - https://github.com/gbif/CommunityMetrics[https://github.com/gbif/CommunityMetrics^]
+* Engage with the IPBES national focal points (see https://www.gbif.org/article/6Or2284ny8cU2SaAIok8Ug/[guiding example from Belgium^]), OBIS regional and/or national nodes (in line with https://www.gbif.org/news/7w0xoodpNZRwnt1SjWfML0/obis-and-gbif-endorse-joint-strategy-and-action-plan-for-marine-biodiversity-data[OBIS and GBIF joint strategy and action plan for marine biodiversity data^]), and with other biodiversity-related conventions to discuss synergies and alignments including, data flows and known data gaps.
+* Relate data use cases and other GBIF activities to supporting the Sustainable Development Goals (SDGs) (see https://www.gbif.org/article/TbnYdzigUnP08rQbcwh56/[guiding example from the Chinese Academy of Sciences^]).
+
+=== Promote open biodiversity data approaches within the business and finance sectors
+
+In recent years, several nodes have scaled up engagement with the private sector resulting in increased data mobilization, partnerships, and communication materials to support further engagement (see the resources developed and available for reuse through the https://www.gbif.org/project/2Zik1tfJoh3C92ZslvhDIr/[CESP OpenPSD project^] and the https://www.gbif.org/business[GBIF business sector page^]).
+
+Nodes are encouraged to:
+
+* Engage businesses efficiently through sectoral associations along with interested companies and consultancies to promote publishing of biodiversity data associated with impact assessments and ongoing monitoring programmes.
+* Provide guidance and support use of relevant tools and platforms to accelerate and expand data publication from companies to advance https://tnfd.global/publication/recommendations-to-upgrade-the-ndvc/[TNFD Recommendation 5^] on incentivizing corporate nature data exchange. In the absence of other existing networks or partners, nodes can also directly engage national and regional communities of TNFD adopters regarding the implementation of Recommendation 5 through https://tnfd.global/engage/tnfd-consultation-groups/[TNFD consultation groups^], which nodes should be able to join.
+* Where applicable, engage with national environment monitoring and permitting authorities to encourage mandatory publishing of primary biodiversity data through GBIF as part of the ESIA process (see resources developed by the https://www.gbif.org/project/83336/[CESP BIREME project^]).
+* Engage with development finance institutions to promote requirements for data publication in projects supported by development finance or overseas development assistance.
+* In countries that are developing or supporting voluntary biodiversity credit markets, promote the suitability of using GBIF data publishing mechanisms (with node support) as a clearing-house mechanism for ongoing biodiversity monitoring data from projects for which biodiversity credits will be or are being sold.
+
+== Priority Area 3: Community and Capacity
+
+_Developing the GBIF network to meet future needs and challenges_
+
+=== Support node development through knowledge sharing and mobility of skills
+
+Nodes play a central role in the GBIF network and ensuring capacity at the node level in terms of a skilled and stable node team remains a priority. Recent updates to the guidance on https://docs.gbif.org/effective-nodes-guidance/1.0/en/[Establishing an Effective GBIF Participant Node^] include better descriptions of the roles and services provided by organizational nodes, recognizing that they play an important role in the GBIF network by contributing thematic, regional and/or technical capacity that complements the work of national nodes and may extend GBIF’s reach into new communities. All participants and their nodes are recommended to strive for a functional team to support their activities in line with the recommendations in the guidance document. For countries, the goal is of at least four full-time equivalents (FTEs) per node, to include a node manager, a data manager, an IT-developer, and a node staff member for scientific outreach and communication. Recognizing that this is a combined responsibility with the Heads of Delegation, node managers will report on progress to establish such functional node teams.
+
+Nodes benefit greatly from the sharing of knowledge and experience with other nodes in the network. The https://www.gbif.org/programme/82219/capacity-enhancement-support-programme[GBIF Capacity Enhancement Support Programme (CESP)^] is a key mechanism for supporting collaborative projects between nodes.
+
+GBIF is implementing a new phase of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development (BID) programme^], with funding from the European Union, to support capacity development to meet the knowledge needs of the Kunming-Montreal Global Biodiversity Framework. The programme aims to significantly improve data accessibility in the target regions and can support the establishment of new nodes. In 2026, nodes are encouraged to engage with and support teams implementing data mobilization projects in the target regions of Africa, Latin America & Caribbean, and Pacific as they begin their activities. Capacity enhancement workshops will be organized for BID project teams alongside the regional nodes meetings in the target regions to enable networking and strengthen collaboration between nodes and the BID project teams. The aim is to support the development of sustainable data mobilization communities and new nodes. Nodes are encouraged to:
+
+* Engage in communicating the value of GBIF, including making use of the https://www.gbif.org/news/5WZThcL928vmPnSvrGhZfE/[economic valuation of the GBIF network^], to potential partners at all levels.
+* Collaborate with other nodes and partners to support active participation in GBIF by more countries.
+* Support the onboarding of new nodes in the network.
+* Continue to collaborate with other nodes on capacity development, including through the https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^].
+* Consider replicating relevant parts of the https://globalnodes.gbif.org/en/2025gnt/[Global Nodes training^] within their networks.
+* Continue training and engagement actions to strengthen and expand national, regional and thematic data publication and use.
+* https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[Volunteer^] within the GBIF community of practice and https://www.survey-xact.dk/LinkCollector?key=YR76Z62RU69K[log^] active contributions during the year.
+* Support the calls for proposals under the Biodiversity Information for Development (BID) programme, acting as reviewers and selection panel members, and supporting applicants where possible.
+* Consider https://www.survey-xact.dk/LinkCollector?key=4S38YXU4U1CK[volunteering^] as trainers, mentors or translators to assist in the organization of BID capacity development workshops to be held for funded projects in Africa, Latin America & Caribbean, and Pacific.
+* Support the development and enhancement of https://www.gbif.org/hosted-portals[hosted portals^] and https://living-atlases.gbif.org/[Living Atlases^] for national, regional and thematic data communities.
+
+=== Develop capacity within regional communities of practice
+
+Since 2021, GBIF has contracted regional support teams in Africa, Latin America and the Caribbean, Asia, and in Europe and Central Asia. The work of these teams focuses on geographic areas that are not yet supported by GBIF nodes and covers engaging data holding institutions, supporting data publishing, developing skills and engagement within the community of practice and providing feedback to GBIF on regional capacity needs. They can also provide ad-hoc support, specific training to existing GBIF nodes and dedicated guidance to new node managers upon request. This approach complements the ongoing efforts of node managers, regional representatives, and volunteer trainers and mentors, to develop regional communities of practice engaged in data mobilization and use through GBIF. Nodes have an essential role in guiding the work of regional support teams and future regional-level support for capacity and participation.
+
+Interregional partnerships under the umbrella of GBIF are encouraged. These can support more extensive capacity building and / or sound academic training of students in order to promote a new generation of data scientists capable of data use to inform decisions on biodiversity conservation and sustainable use across regions. The current phase of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[BID programme^] includes calls for regional and cross-regional data mobilization projects in the target regions of Africa, Latin America & Caribbean, and Pacific. Nodes are encouraged to support these by acting as reviewers and selection panel members, and mentoring support to BID programme applicants. GBIF will continue to seek opportunities to expand the BID programme and similar initiatives into other regions to support further regional and interregional capacity development. +
+Nodes are encouraged to:
+
+* Partner with the regional support teams to support the work of the nodes, as well as broader capacity development in the region, and contribute to discussions on the future of this approach.
+* Contribute to the development of future capacity development programmes, such as the possible expansion of the https://www.gbif.org/bid[Biodiversity Information for Development^] (BID) programme.
+* Participate in regional nodes meetings and discussions on strengthening regional engagement in GBIF.
+* Support regional and cross-regional partnerships, such as those enabled through the BID and CESP programmes.
+* Consider opportunities to reuse the https://globalnodes.gbif.org/en/2025gnt/[training materials developed for the Global Nodes training^] in regional workshops.
+
+== Priority Area 4: Infrastructure and data products
+
+_Maintain and evolve infrastructure to advance biodiversity-related knowledge_
+
+=== Contribute to data model enhancements
+
+Community engagement remains essential in the work on diversifying the data model, enabling richer and deeper indexing of biodiversity data and strengthening an inclusive, global knowledge base. Over the past year, this work has led to a candidate standard, the Darwin Core Data Package (DwC-DP), which is now available for https://www.tdwg.org/news/2025/community-help-desk-for-darwin-core-public-review/[public review^]. This new approach builds on the research into https://www.gbif.org/new-data-model[case studies^] prepared with community members from across the nodes who identified the need for better support when publishing their specific types of biodiversity data. The DwC-DP is expected to handle more complex cases that the existing DwC-A standard cannot support, while not serving as a replacement for it.
+
+Work is underway to finalize the DwC-DP format with new data schemas that allow the publication of more expressive datasets using tools such as IPT, MDT and from bespoke systems. The new schemas and format are expected to form part of the Darwin Core standard.
+
+Progress will continue to rely heavily on community feedback, testing, and engagement through the GBIF nodes. As nodes support data mobilization in their communities, they will require updated training materials and documentation to help them effectively promote publishing via the new model.
+
+Nodes are encouraged to:
+
+* https://www.tdwg.org/news/2025/community-help-desk-for-darwin-core-public-review/[Review^] and contribute to improving the Darwin Core Data Package candidate standard during the public review period.
+* Build a deeper understanding of the new data model (see https://globalnodes.gbif.org/en/2025gnt/gnt-emerging-publishing-models[training materials from the Global Nodes training^]) and consider which existing and emerging communities may benefit from it.
+* Engage in testing and tool development, contributing feedback that strengthens the technical ecosystem.
+* Participate in webinars to stay up to date on developments.
+* Identify priority directions and case studies aligned with their regional or thematic priorities, with a particular focus on metabarcoding and survey and monitoring data in 2026.
+* Encourage data holders working in these areas to collaborate with GBIF to advance the model and its adoption.
