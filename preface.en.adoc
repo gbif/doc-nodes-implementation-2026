@@ -3,7 +3,7 @@ The 2026 Nodes Implementation Plan has been prepared by the https://www.gbif.org
 
 == Rationale
 
-Since the 15th Global Nodes Meeting (October 2019 at GB26 in Leiden), the Nodes Committee, led by the Nodes Steering Group (NSG), has identified priority objectives to guide the global efforts of the nodes.
+Since the 15th Global Nodes Meeting (October 2019 at GB26 in Leiden), the https://www.gbif.org/contact-us/directory?group=nodesCommittee[Nodes Committee^], led by the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] (NSG), has identified priority objectives to guide the global efforts of the nodes.
 
 These strategic objectives are implemented by the Nodes Committee with the support of the Secretariat under the supervision of the NSG. They also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings. At the end of the year, the NSG will assess the progress towards these strategic objectives.
 
