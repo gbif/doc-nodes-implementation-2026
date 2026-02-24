@@ -158,6 +158,25 @@ The NLBIF node manager is part of the scientific committee of Biodiversa+ biodiv
 ===== Activity 1.3
 NLBIF is a GBIF open data ambassador with an specific portfolio of activites for dissemination and training. NLBIF's host institute, Naturalis Biodiversity Center, promotes open science as well.
 
+==== New Zealand
+
+===== Activity 1.1
+* Publish New Zealand’s national monitoring programmes (Tier 1 & LUCAS) using the Humboldt Extension.
+* Develop 3–5 New Zealand case studies demonstrating GBIF data use in reporting and policy.
+* Strengthen integration of GBIF data within biodiversity credit and ecosystem market initiatives
+
+===== Activity 1.2
+* Scope modelling pilots using GBIF data cubes (e.g. species distribution).
+* Progress at least one GEO BON-aligned indicator pilot.
+* Identify priority sampling-event datasets for publication
+
+===== Activity 1.3 
+* Publish additional eDNA datasets using the new reusable pipeline.
+* Engage additional laboratories to scale adoption.
+* Present the eDNA publication approach nationally.
+* Engage with Oceania Metabarcoding Data Toolkit (MDT).
+* Continue New Zealand checklists (NZOR) ChecklistBank integration to strengthen the taxonomic backbone for NZ data
+
 ==== South Africa
 
 * Continue with the national process and submit 2 candidate nominations to GBIF for the GRA 2026. 
