@@ -823,3 +823,5 @@ Elements of the wider 2026 to 2027 delivery plan are being finalised alongside o
 * Continue to develop and operationalise tooling and guidance that supports metabarcoding and eDNA use cases, with a focus on data quality, interpretability, and publishing pathways that can connect national efforts to international infrastructure expectations.
 
 * Maintain an active technical feedback loop into the GBIF community through Living Atlas and relevant standards forums, sharing lessons from national scale operations and ensuring UK requirements are reflected in the development of future tools and processes.
+
+<<<
