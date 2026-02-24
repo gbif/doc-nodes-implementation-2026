@@ -564,14 +564,11 @@ Explore support to strengthen HKHBIF node and seek collaboration with other Asia
 * Organise workshops/symposia during the conferences of the Italian scientific societies dealing with biodiversity, to communicate the value of GBIF.
 * Write editorials in different Italian scientific journals, communicating the value of publishing datapapers connected to datasets in GBIF.
 
-[.source]
-----
 ==== LifeWatch ERIC
 
 Plans for 2026 emphasize upscaling, outscaling and coordination of capacity development. One of the most important activity is the publishing of the paper describing the GBIF infrastructure after 25 years of operation. Enhancing the impact of the Node Awards programme is another planned activity. Nodes and regions that have acted as hubs for training and mentoring, particularly in Europe and Latin America, are expected to support regional and interregional learning, alongside regional support teams.
 
 The 2026 plans also point to stronger alignment of capacity development tools, curricula, and self-assessment mechanisms, helping reduce inequalities across regions while building on existing centres of excellence.
-----
 
 ==== Madagascar
 
@@ -596,6 +593,20 @@ NLBIF aims to link Dutch data publishers that hold significant datasets: NDFF - 
 * The Dutch node aims to continue the collaboration with stakeholders from the Dutch overseas areas in the Caribbean. Representatives will be part of the next NLBIF day with a presentation. 
 * Continuous engagement with partners in the Biodiversity Genomics Europe project (BGE) and the Dutch ARISE project on the training on the mobilisation of DNA derived data to GBIF.
 * NLBIF participates actively in the CESP program with a project as mentioned before and two new proposals under the 2026 call. 
+
+==== New Zealand
+
+===== Activity 3.1 
+
+* Host a GBIF data symposium at a New Zealand conference.
+
+===== Activity 3.2 
+* Scope a strengthened GBIF New Zealand Node function (towards a National Biodiversity Information Facility model) with clearer governance, resourcing and cross-agency coordination to move from ad hoc engagement to nationally coordinated participation.
+===== Activity 3.3
+
+* Subject to funding, provide structured technical upload support (“office hours”) guidance and support.
+* Establish a GBIF-NZ ambassador programme.
+* Support and promote BID and Pacific opportunities
 
 ==== South Africa
 
@@ -785,6 +796,25 @@ Through the developmet of the Biodiversiteit-NL hosted portal the Dutch node is 
 
 ===== Activity 4.4
 NLBIF is aiming to support the transition towards the full implementation of the DwC DP. 
+
+==== New Zealand
+
+===== Activity 4.1 
+* Publication of priority New Zealand checklists to ChecklistBank via NZOR 
+* Strengthen alignment with GRIIS and backbone taxonomy for national reporting (e.g. GBF Target 6).
+* Explore hosted portal options for voluntary nature market initiative.
+
+===== Activity 4.2 
+* Subject to funding, provide structured technical upload support (“office hours”) guidance and support 
+* Develop practical guidance on managing restricted species for New Zealand.
+
+====== Activity 4.3 
+* Engage in MDT pilots and test Oceania instance 
+* Continue supporting Indigenous Data Governance implementation.
+
+===== Activity 4.4 
+* Continue participation in TDWG standards.
+* Expand camtrap-dp adoption in NZ projects
 
 ==== South Africa
 
