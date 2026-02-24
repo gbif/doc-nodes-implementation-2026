@@ -15,21 +15,21 @@ endif::backend-html5[]
 
 :sectnums!:
 
-include::colophon.en.adoc[]
-
 include::preface.en.adoc[]
-
-:sectnums:
 
 include::100.en.adoc[]
 
+// :sectnums:
+
 // include::200.en.adoc[]
 
-:sectnums!:
+// :sectnums!:
 
 // include::afterword.en.adoc[]
 
 include::appa.en.adoc[]
+
+include::colophon.en.adoc[]
 
 // include::glossary.en.adoc[]
 
