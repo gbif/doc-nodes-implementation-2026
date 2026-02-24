@@ -1,11 +1,11 @@
 == The strategic objectives
 
 * <<#engage-research-communities-for-data-mobilization-and-use,Engage research communities for data mobilization and use>>
-* Support national and regional biodiversity commitments and the science-policy interface
-* Promote open biodiversity data approaches within the business and finance sectors
-* Support node development through knowledge sharing and mobility of skills
-* Develop capacity within regional communities of practice
-* Contribute to data model enhancements
+* <<#support-national-and-regional-biodiversity-commitments-and-the-science-policy-interface,Support national and regional biodiversity commitments and the science-policy interface>>
+* <<#promote-open-biodiversity-data-approaches-within-the-business-and-finance-sectors,Promote open biodiversity data approaches within the business and finance sectors>>
+* <<#support-node-development-through-knowledge-sharing-and-mobility-of-skills,Support node development through knowledge sharing and mobility of skills>>
+* <<#develop-capacity-within-regional-communities-of-practice,Develop capacity within regional communities of practice>>
+* <<#contribute-to-data-model-enhancements,Contribute to data model enhancements>>
 
 == Priority Area 1: Science and Research
 
