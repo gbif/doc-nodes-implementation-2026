@@ -15,7 +15,6 @@ The document _GBIF Nodes Implementation Plan 2026_ is licensed under https://cre
 
 === Persistent URI
 
-#TODO: Assign a DOI before publication#
 // Uncomment once a DOI is assigned
 https://doi.org/10.35035/9m1k-yh45
 
