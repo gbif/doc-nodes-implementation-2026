@@ -1,24 +1,19 @@
-== Preface
+[sidebar]
+The 2026 Nodes Implementation Plan has been prepared by the https://www.gbif.org/contact-us/directory?group=nsg[Nodes Steering Group^] and Secretariat in December 2025 and approved in January 2026. It is an update to the https://docs.gbif.org/nodes-implementation-2025/en/[2025 Nodes Implementation Plan^] and aligns with https://www.gbif.org/document/50lI7Bxn2p1vRgpbs7aXaT/[GBIF Strategic Framework 2023-2027^]. It provides a framework for discussions at the Regional Nodes Meetings.
 
-// This section can contain not only a preface but other 'frontmatter' as well—particularly those called out in the AsciiDoctor user manual, including
+== Rationale
 
-=== Epigraph
+Since the 15th Global Nodes Meeting (October 2019 at GB26 in Leiden), the Nodes Committee, led by the Nodes Steering Group (NSG), has identified priority objectives to guide the global efforts of the nodes.
 
-[quote, Tacitus]
-mihi, quanto plura recentium seu veterum revolvo, tanto magis ludibria rerum mortalium cunctis in negotiis obversantur.
+These strategic objectives are implemented by the Nodes Committee with the support of the Secretariat under the supervision of the NSG. They also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings. At the end of the year, the NSG will assess the progress towards these strategic objectives.
 
-=== Abstract
+The global objectives are aligned with GBIF’s strategic framework. Regions are welcome to add their own objectives. Different regions and Participants might have different approaches and activities to reach the common strategic objectives. For this reason, the activities under each objective should be considered as a non-exhaustive list of suggestions that might differ regionally.
 
-The special guide to something blar de blar blar blar.
+== The strategic objectives
 
-=== Preface
-
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way.
-
-=== Acknowledgments
-
-This section may also be placed at the document’s end.
-
-=== Dedication
-
-Once again to Zelda
+. Engage research communities for data mobilization and use
+. Support national and regional biodiversity commitments and the science-policy interface
+. Promote open biodiversity data approaches within the business and finance sectors
+. Support node development through knowledge sharing and mobility of skills
+. Develop capacity within regional communities of practice
+. Contribute to data model enhancements
