@@ -11,7 +11,7 @@ GBIF Nodes Steering Group (2026) GBIF Nodes Implementation Plan. GBIF Secretaria
 
 === Licence
 
-The document _GBIF Nodes Implementation Plan 2026_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _GBIF Nodes Implementation Plan 2026_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 International License].
 
 === Persistent URI
 
