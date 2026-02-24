@@ -8,7 +8,7 @@ https://builds.gbif.org/job/doc-template/lastBuild/console[image:https://builds.
 
 = GBIF Nodes Implementation Plan 2026
 
-This document has been prepared with the Nodes Steering Group in December 2025 and approved in February 2026. They align with the GBIF strategic framework 2023-2027 and also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings. The document also includes an appendix detailing specific plans of individual nodes for 2026.
+This document has been prepared with the Nodes Steering Group in December 2025 and approved in January 2026. They align with the GBIF strategic framework 2023-2027 and also provide a framework for discussions at the Global Nodes Meetings and Regional Nodes Meetings. The document also includes an appendix detailing specific plans of individual nodes for 2026.
 
 The document is available as HTML and PDF at https://docs.gbif-uat.org/template/[Document Template].
 
