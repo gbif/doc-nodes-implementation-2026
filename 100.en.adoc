@@ -119,3 +119,5 @@ Nodes are encouraged to:
 * Participate in webinars to stay up to date on developments.
 * Identify priority directions and case studies aligned with their regional or thematic priorities, with a particular focus on metabarcoding and survey and monitoring data in 2026.
 * Encourage data holders working in these areas to collaborate with GBIF to advance the model and its adoption.
+
+<<<
