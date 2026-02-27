@@ -249,13 +249,9 @@ In the coming year, plans for the Andorra GBIF and according to the GBIF Work Pr
 - Consolidate and promote policy use cases from across the network on other multilateral agreements and highlighting Andorra GBIF’s role in supporting implementation.
 - Start to engage corporate actors, financial institutions and public development banks to adopt best practices around sharing and acknowledging the use of data from the GBIF network.
 
-[source,]
-----
 ==== ASEAN Centre for Biodiversity
 
 In 2026, priority area 2 will focus on strengthening the science policy interface and nature-positive decision-making by renewing key international partnerships, enhancing GBIF’s contribution to CBD and GBF reporting, promoting policy-ready data tools and taxonomic services, and deepening engagement with businesses, financial institutions, and global initiatives to mainstream biodiversity data sharing in policy, finance, and practice.
-
-----
 
 ==== Belgium
 
