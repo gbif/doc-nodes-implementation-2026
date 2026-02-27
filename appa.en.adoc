@@ -232,6 +232,10 @@ In 2026, the UK Node will focus on turning the 2025 infrastructure and pipeline 
 
 * Maintain an active research engagement and feedback loop through targeted forums, events, and direct user support, using this to identify usability barriers, priority thematic needs, and opportunities to improve discoverability, documentation, and standards alignment.
 
+==== United States
+
+In 2026, the US Node plans to contribute to the GBIF-NA webinar series, which will feature talks on publishing data to OBIS, data quality, and updates from GBIF-NA nodes. A session on OBIS is being organized for the BioMonWeek 2026 conference, and a presentation is planned for TDWG 2026. Additional priorities include creating a Wikidata entry for the US Node of GBIF with links to relevant references, with the longer-term goal of parlaying that content into a Wikipedia article, as well as developing updated materials for distribution at conferences.
+
 [[plans-priority-2]]
 === Priority Area 2
 
@@ -446,6 +450,10 @@ Elements of the wider 2026 to 2027 delivery plan are being finalised alongside o
 * Increase engagement with business, finance, and productive sectors in a practical, standards led way. This includes promoting expectations for primary biodiversity data sharing from impact assessment and monitoring, expanding dialogue with relevant consultancies and data producers, and continuing engagement with TNFD related work where it supports open, verifiable data flows.
 
 * Continue to contribute to GBIF participation and partnership objectives by engaging in consultations, sharing UK Node experience where it is transferable, and supporting GBIF’s wider value proposition.
+
+==== United States
+
+Looking ahead, the US Node aims to deepen coordination across the country on policy and new partnerships, including supporting GBIF in developing a strategy for marine biodiversity through continued partnership with OBIS and potentially serving as a liaison between GBIF and the GEO BON Marine Biodiversity Observation Network. Outreach efforts will focus on discovering and supporting new data providers such as government agencies, small collections, taxonomic groups, field stations, and iDigBio connections. The Node also plans to begin contributing to preparations for the next GBIF Strategic Plan (2028–2032) as introduced by the Governing Board Chair at GB32, with an emphasis on demonstrating how US-published data is being used in research on climate change, biodiversity loss, and ecosystem functioning, and promoting further applications of that data for policy-relevant purposes.
 
 [[plans-priority-3]]
 === Priority Area 3
@@ -665,6 +673,10 @@ Elements of the wider 2026 to 2027 delivery plan are being finalised alongside o
 
 * Improve communication of the UK Node’s value to science, policy, and society audiences by strengthening the narrative around national infrastructure, demonstrating concrete use cases, and ensuring UK participation is visible in relevant GBIF community channels and UK facing stakeholder conversations.
 
+==== United States
+
+In 2026, the US Node plans to promote understanding and use of Darwin Core Data Packages while continuing work initiated in 2025, including participating in the GBIF North America Steering Committee, supporting US data providers and publishers in sharing their data and accessing the GBIF-US IPT, and improving communication and coordination across the GBIF North America region. Efforts to develop communication and collaboration between GBIF-US and regional nodes will include regular meetings, a plan to better describe and raise awareness of node activities, and the development of data analysis examples to highlight the utility of US data. The Node will also work to increase its stability and sustainability by supporting new staff and building a broader network of knowledge holders, identifying new data publishers and guiding them through the publication process, and collaborating with the iDigBio Node to encourage and facilitate additional data transfers from iDigBio to GBIF.
+
 [[plans-priority-4]]
 === Priority Area 4
 
@@ -878,5 +890,9 @@ Elements of the wider 2026 to 2027 delivery plan are being finalised alongside o
 * Continue to develop and operationalise tooling and guidance that supports metabarcoding and eDNA use cases, with a focus on data quality, interpretability, and publishing pathways that can connect national efforts to international infrastructure expectations.
 
 * Maintain an active technical feedback loop into the GBIF community through Living Atlas and relevant standards forums, sharing lessons from national scale operations and ensuring UK requirements are reflected in the development of future tools and processes.
+
+==== United States
+
+In 2026, the US Node plans to continue promoting engagement in the hosted portal process.
 
 <<<
