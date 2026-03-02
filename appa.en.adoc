@@ -51,6 +51,16 @@ Our plan is to develop the capacity at a national level to establish a functioni
 
 Consolidate scientific expertise across the GBIF network—including researchers from national participants, thematic community experts, the Science Committee and the GBIF Secretariat—to support development of strategic documents, communications and improvements to GBIF-mediated data and services
 
+==== Canada
+
+* Further digitization, mobilization, and publishing of underrepresented taxa and high-priority datasets, e.g., soil, freshwater, northern/arctic, and culturally significant species.
+* Increased integration of genomics and eDNA data into GBIF, partnering with initiatives like BIOSCAN-Canada and Canada BioGenome Project.
+* Complete an export template for DINA to semi-automate genomic data publication in GBIF to support outputs of GRDI-GenARCC. Publish thousands of genomic material samples with rich metadata to GBIF. 
+* ECCC will work on addressing identified data gaps by supporting new monitoring programs, integrating remote-sensing, and considering Indigenous knowledge data streams.
+* Look for opportunities to strengthen collaborative research proposals involving biodiversity using GBIF-enabled data.
+* Identified leads and stewards of AAFC research collections may participate in a workshop to produce metadata for GRSciColl  that best describes their holdings
+
+
 ==== Canadensys
 
 - Continuation of work started in 2025 with Québec Centre for Biodiversity Science (QCBS), Biodiversité Québec and private companies
@@ -281,6 +291,14 @@ We plan to establish a national working group comprising the Bulgarian scientifi
 
 Support national and regional engagement with CBD focal points and subregional support centres to align technical collaboration and data use with GBIF capabilities.
 
+==== Canada
+
+* ECCC will expand use of GBIF data in Canadian biodiversity policy, conservation planning (e.g., protected areas, restoration), and reporting (e.g., Map of Life indicators).
+* Deepening partnership with Indigenous Peoples, co-managing and sharing data according to Indigenous data sovereignty and CARE principles.
+* ECCC will support monitoring and reporting for international conventions (e.g., Convention on Biological Diversity, Ramsar, CITES) using harmonized data.
+* Engaging new partners from financial, land management, and private sectors to support mainstreaming of biodiversity in decision-making.
+* Supporting nature-positive outcomes and biodiversity impact tracking for businesses.
+
 ==== Catalogue of Life
 
 * We will continue to support Brazil and South Africa with their efforts to consolidate national checklist workflows and build a stronger baseline that can be extended to support additional countries.
@@ -495,6 +513,12 @@ Coordinate the work and skills development of regional support teams to ensure t
 
 Coordinate a consistent and structured approach toward community engagement and communication with nodes, thematic communities and other communities of practice.
 
+==== Canada
+
+* Continued support for citizen science and community-based monitoring to fill data gaps, particularly in remote/northern and Indigenous-managed lands.
+* Mentoring new data providers and supporting Canadian GBIF data publishers with improved guidance and recognition for data sharing (e.g., Canadian Wildlife Federation).
+* Continue communicating the value of biodiversity data to diverse Canadian audiences.
+
 ==== Canadensys
 
 * Give a talk at the QCBS annual conference to present Canadensys, GBIF and the services we provide. 
@@ -708,6 +732,14 @@ We plan to incorporate the Darwin Core standard into our Central Database for Bi
 ==== Burundi
 
 Expand the infrastructure to support download capabilities for the emerging Darwin Core Data Package format.
+
+==== Canada
+
+* ECCC to further develop  real-time data products leveraging APIs to serve research, policy, and public needs (e.g., biodiversity dashboards, KBA tools).
+* Internal Government of Canada infrastructure upgrades for increased data throughput, quality, and security, supporting both FAIR and CARE principles.
+* Increase automation and use of AI for data cleaning, species identification, e.g., camera trap image recognition, Automated Recording Units), and validation.
+* Continued leadership on international data standards, interoperability, and open science infrastructure (e.g., https://www.canada.ca/en/government/system/digital-government/leveraging-information-data/annual-report-2023-2026-data-strategy.html and https://science.gc.ca/site/science/en/office-chief-science-advisor/open-science/data-governance/towards-national-scientific-data-governance-framework) and participation in Task Groups and leadership in Biodiversity Information Standards (TDWG).
+* Publish more regionally- and taxonomically-focused checklists similar to that of the recently published Nematodes of Canada, https://doi.org/10.5886/gbcnv7 
 
 ==== Canadensys
 
