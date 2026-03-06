@@ -649,7 +649,9 @@ NLBIF aims to link Dutch data publishers that hold significant datasets: NDFF - 
 * Host a GBIF data symposium at a New Zealand conference.
 
 ===== Activity 3.2 
+
 * Scope a strengthened GBIF New Zealand Node function (towards a National Biodiversity Information Facility model) with clearer governance, resourcing and cross-agency coordination to move from ad hoc engagement to nationally coordinated participation.
+
 ===== Activity 3.3
 
 * Subject to funding, provide structured technical upload support (“office hours”) guidance and support.
