@@ -418,7 +418,7 @@ NLBIF/Naturalis together with KPMG continues with the development of https://www
 
 ===== Activity 2.2
 
-* Develop partnerships to scope KMGBF reporting and data needs. 
+Develop partnerships to scope KMGBF reporting and data needs. 
 
 ===== Activity 2.3 
 * Further scope GBIF as a clearinghouse for NZ voluntary nature market pilots.
@@ -437,6 +437,7 @@ In 2026, GBIF Spain plans to set in motion a focused set of projects aimed at st
 In parallel, GBIF Spain will reinforce collaboration with environmental administrations through technical coordination, policy-oriented data products (such as Biodiversidad en cifras), and continued participation in national reporting frameworks, while promoting responsible data sharing practices aligned with CARE principles. Together, these activities are intended to increase the visibility, policy relevance and practical uptake of GBIF-mediated data, positioning GBIF Spain as a key enabling infrastructure for evidence-based decision-making at national and subnational levels.
 
 ==== Sweden
+
 ===== Activity 2.1
 -        Engage and participate in GBIF governance meetings and relevant conferences and training events.
 -        Continued collaboration with GIDA-Sápmi (Global Indigenous Data Alliance) and the IDGov task group for Sápmi. 
@@ -646,11 +647,11 @@ NLBIF aims to link Dutch data publishers that hold significant datasets: NDFF - 
 
 ===== Activity 3.1 
 
-* Host a GBIF data symposium at a New Zealand conference.
+Host a GBIF data symposium at a New Zealand conference.
 
 ===== Activity 3.2 
 
-* Scope a strengthened GBIF New Zealand Node function (towards a National Biodiversity Information Facility model) with clearer governance, resourcing and cross-agency coordination to move from ad hoc engagement to nationally coordinated participation.
+Scope a strengthened GBIF New Zealand Node function (towards a National Biodiversity Information Facility model) with clearer governance, resourcing and cross-agency coordination to move from ad hoc engagement to nationally coordinated participation.
 
 ===== Activity 3.3
 
