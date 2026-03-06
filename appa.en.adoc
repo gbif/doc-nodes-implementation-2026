@@ -20,6 +20,12 @@ In 2026, the ASEAN Centre for Biodiversity (ACB) will support Priority Area 1 by
 
 ACB will facilitate collaboration among researchers, data managers, and thematic communities to improve data quality and interoperability, assess regional data gaps and biases, and advocate open science and FAIR data practices. These efforts will enhance the visibility, usability, and scientific uptake of GBIF-mediated data to support research and evidence-based biodiversity policy in Southeast Asia.
 
+==== Australia
+
+* Seek to use the Galaxias package to support onboarding key stakeholders to publish survey and monitoring data  
+* Lead the ALA’s annual Data Mobilisation grant program that prioritises taxonomic and geographic data gaps 
+* Strengthen data governance and improve our data quality framework to better support science and policy 
+
 ==== Belgium
 
 * User driven data mobilization and support (metabarcoding data, soil, freshwater, IAS, monitoring, disease vector, Collections, Atlas of Living Flanders, project based) . Identify community priorities and set up consultation mechanism
@@ -263,6 +269,13 @@ In the coming year, plans for the Andorra GBIF and according to the GBIF Work Pr
 
 In 2026, priority area 2 will focus on strengthening the science policy interface and nature-positive decision-making by renewing key international partnerships, enhancing GBIF’s contribution to CBD and GBF reporting, promoting policy-ready data tools and taxonomic services, and deepening engagement with businesses, financial institutions, and global initiatives to mainstream biodiversity data sharing in policy, finance, and practice.
 
+==== Australia
+
+* Continue to support Australian federal, state and territory governments to contribute to and use the ALA’s taxonomic backbone and promote and support the use of ChecklistBank tools for their own use cases 
+* Lead two major Indigenous Partnerships initiatives and expand our Indigenous Ecological Knowledge program 
+* Continue to participate in Australian initiatives to support environment indicator reporting through the Ecosystem Indicators Project in partnership with the Australian Research Data Commons, and a consortium of university partners 
+* Continue to improve governance and guidance to Australian government and research agencies regarding the management and publication of Restricted Access Species Data (RASD) 
+
 ==== Belgium
 
 * Explore synergies and support actions to DiSSCo Fed and DiSSCo Flanders networks, B-Cubed (Biodiversity Building Blocks for Policy), OneSTOP projects partners (Research Institute for Nature and Forest, Meise Botanic Garden).
@@ -484,6 +497,13 @@ Looking ahead, the US Node aims to deepen coordination across the country on pol
 ==== ASEAN Centre for Biodiversity
 
 In 2026, Priority Area 3 will focus on strengthening the GBIF community and capacity by clearly communicating GBIF’s value, reinforcing the role and effectiveness of nodes, and expanding training and support programmes.
+
+==== Australia
+
+* Provide ongoing training and support to government and industry on using biodiversity data via the ALA  
+* Continue regular Living Atlas information and discussion sessions with other nodes managing the platform 
+* Seek and support regional participants in GBIF Indigenous Task Group activities 
+* Attend and lead the Oceania regional nodes meeting 
 
 ==== Belgium
 
@@ -709,6 +729,14 @@ In 2026, the US Node plans to promote understanding and use of Darwin Core Data 
 ==== ASEAN Centre for Biodiversity
 
 In 2026, ACB will focus on further aligning its regional biodiversity platforms with GBIF’s evolving infrastructure by adopting emerging data standards such as Darwin Core Data Packages, strengthening checklist and taxonomic integration, improving data publishing and validation workflows, and enhancing technical capacity to ensure ASEAN biodiversity data are interoperable, reliable, and ready for regional and global policy use.
+
+==== Australia
+
+* Continue to lead the TDWG Task Group to develop standards and vocabularies compatible with Darwin Core for the documentation and publication of Restricted Access Species Data (RASD). Socialise the framework with other GBIF nodes and the Living Atlas community  
+* Develop a cloud based large data access point for openly accessible data in the ALA in parquet format and distribute via multiple platforms 
+* Develop a QGIS Plugin to access the ALA’s API using Galah Python 
+* Continue to implement our next-generation technical uplift and modernisation for ALA applications and infrastructure to improve security, scalability and UX/UI 
+* Review, improve, document and communicate our data quality framework 
 
 ==== Belgium
 
