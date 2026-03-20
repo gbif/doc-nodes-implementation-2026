@@ -33,6 +33,10 @@ ACB will facilitate collaboration among researchers, data managers, and thematic
 * Maintain data portals: GBIF.be Hosted Portal for Belgian data, dedicated portals (e.g., African Butterflies)
 * Improve visibility of federal collections
 
+==== Benin
+
+Master graduates will achieve their research works using GBIF data to provide evidence for decision making on biodiversity conservation and sustainable use in the context of climate and global changes.
+
 ==== BioCASE
 
 Attendance of TDWG 2026 in Oslo.
@@ -284,6 +288,10 @@ In 2026, priority area 2 will focus on strengthening the science policy interfac
 * Participate in BioMonWeek 2026 (GBIF ECA nodes workshops).
 * Support DMPs and interoperability workshops / webinars (Biodiversa+).
 
+==== Benin
+
+Training workshops will be organized by GBIF Benin to enhance capacity of some national partners to support data mobilization and publication on GBIF site.
+
 ==== BioCASE
 
 Work on the BioCASe-NG project, if granted.
@@ -512,6 +520,10 @@ In 2026, Priority Area 3 will focus on strengthening the GBIF community and capa
 * Engage new data publishers/users, community building
 * Install new node Data Officer
 * Organize GBIF Belgian Stakeholders Day
+
+==== Benin
+
+Training workshops will be organized by GBIF Benin to enhance capacity of some national partners to support data mobilization and publication on GBIF site.
 
 ==== BioCASE
 
@@ -747,6 +759,10 @@ In 2026, ACB will focus on further aligning its regional biodiversity platforms 
 * Support for the unified model (Biodiversa+ data interoperability transversal support)
 * Continue exploring the feasibility of integration of EBVs and B-Cubed output data within Hosted Portal
 * Use GBIF literature tracking to feed our Belgian Experts Registry
+
+==== Benin
+
+We plan to contribute to new model use to publish data whenever possible.
 
 ==== Botanic Gardens Conservation International
 
